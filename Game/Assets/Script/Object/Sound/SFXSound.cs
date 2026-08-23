@@ -46,7 +46,9 @@ public class SFXSound : MonoBehaviour, IEntity
         audioSource.clip = audioClip;
         audioSource.pitch = pitch;
         audioSource.volume = volume;
-        audioSource.Play();
+        
+        if(audioSource.clip != null)
+            audioSource.Play();
 
         await AutoRelease(audioSource.clip.length);
     }
