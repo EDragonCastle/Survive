@@ -1,0 +1,308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 3568056fb50bcc34389f1dfc4d05a1e1
+  m_SerializeEntries:
+  - m_GUID: 04edaa4fa02e478458d82776a0315afb
+    m_Address: RifleReloading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06b21b1d2e2c69b49848304fb48c3090
+    m_Address: R1895 Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07240df652e61414cab960119c35c0a4
+    m_Address: Large Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 201eeb895b78b7d479daf2b34c2aa7ef
+    m_Address: UziReloadingClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24323e3f01048c9468e894a9f0841420
+    m_Address: PistolReloadingClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b3b5cf3110d20045bd1a222797d4cf3
+    m_Address: R1895
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e444323f31047446a391138af0001d5
+    m_Address: AWP Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e56515562dce1f4ca9fc97165eb2d63
+    m_Address: LoseClip3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34d8d41fe2a480148af42ff9cd03bfef
+    m_Address: Glock Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ce98b16c159de7438d8e85b788e5447
+    m_Address: SniperReloadingClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3da651e8b34bb924c91759c64f0d36bb
+    m_Address: Aura3Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3da861d536f1ffa44b17f0810b1a84a9
+    m_Address: Sniper2Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e18cb9c7a1245f4e88063fac3324091
+    m_Address: MicroUzi Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e7df892e71cd6b45b798b95db330ad2
+    m_Address: AttackCollider 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46aabd1136e1ef4409900aaba6e50f9f
+    m_Address: MainClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47518f3593958b748afb0493804d2c0b
+    m_Address: UpperClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47856c9b4c689614890d8b076710fec4
+    m_Address: TitleClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a88b6ac8d3c8c14bb72368c2775b04b
+    m_Address: UziShot4Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e545e70579da884bb17b1cd03591af0
+    m_Address: Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea150962fb7915489f802112c8d94e3
+    m_Address: Aura1Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bed1dc7356e33f478cc1da5feaf9839
+    m_Address: AK47 Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d8b450a0392d3041a4d2a75f77c7ff5
+    m_Address: Aura2Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61a774b6cfc80024d89d722e765a6660
+    m_Address: LoseClip2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65a7b80288f76b94f82a380161088b92
+    m_Address: Knife
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7166db61bf9b8e649ba4144a264daacb
+    m_Address: waveSpawnData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 716b1dfb1a5b55e4abefe61cb8951d74
+    m_Address: UziShot2Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bc9daa6c665a8946805cf41cd45782c
+    m_Address: Sniper3Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80071f5446c074549b1f97f3b694e626
+    m_Address: AttackCollider 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 874adde50467ed143adf8b323424b1d0
+    m_Address: Slime Animator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c0aa01646ca9ca4fbb2f68dca044dd2
+    m_Address: Mini Animator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c4f176e5f9f03543ba2eaea7926fe09
+    m_Address: Glock
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d5444bbba71e8e45bb05cd94aead891
+    m_Address: SFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 937a4b926bb378849921e8e5322c4ef3
+    m_Address: AttackCollider 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96b82de0721e1b04193901cf25e6934a
+    m_Address: GameIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b12b39004c48d44fa7b8f8cc0a8e2be
+    m_Address: RevolverReLoadingClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d5632c9629dc044f92fbf6e1f853bfa
+    m_Address: Large Animator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4b4582234057a04582f5b0c97e3acba
+    m_Address: ShotgunReloadClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a509c90d5dfa6a8439cc7b769a2ca2eb
+    m_Address: Damage Font
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abaec875b2d93d943b51aaa40639a01d
+    m_Address: LoseClip1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b31e910371b45d343bc0a6e06a4eeab1
+    m_Address: PistolShotClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6489bcbe9bbae441b7fdc28b3599561
+    m_Address: ShotgunShotClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9e12dae7a4154243935d47afb3bd320
+    m_Address: RevolverShotClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bafc19247c4bd184b8764d69afce43b0
+    m_Address: Mini Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be023c59cdc083047acdb858ffaeccfa
+    m_Address: Slime Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3682c07ee6e5af44ac6435137d76ebf
+    m_Address: Aura Effect
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d00bd7e269486334faa176f56240e205
+    m_Address: Fly Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfb36ede44e253c4188ed1637cb75abb
+    m_Address: BGM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e38cab1980ad70a40adc227d355dca77
+    m_Address: RifleShot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9d1da0d76f7d5647a8059c31d7b6624
+    m_Address: SwingClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee301e10677c71540b580c8f327964f4
+    m_Address: Shotgun Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef6d3c44393d8e041935b03ccfeb596e
+    m_Address: Enemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f29b2cac432b2d040a54fc444488958c
+    m_Address: UziShot1Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f37b355d6fb4c804383b368631d70651
+    m_Address: Sniper4Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f97e634915b42d14fb0b7ab2800adcca
+    m_Address: Fly Animator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbafacee308fa384faff23b7332bb314
+    m_Address: M590 Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc569e20239dafb45b46d282875c20b9
+    m_Address: Sniper1Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe5aeba53e3480f4188691e553c16fd9
+    m_Address: UziShot3Clip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2175744e5934d464397d9e296ed75fc6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 203a72fb33b44cf44ac9b622512a0c60, type: 2}
+    - {fileID: 11400000, guid: 5e5781e843901b346a25e9cefef3840a, type: 2}

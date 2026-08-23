@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 96b82de0721e1b04193901cf25e6934a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4565277893826926653
+    second: GameIcon_0
+  - first:
+      213: -2289993075250670173
+    second: GameIcon_1
+  - first:
+      213: 1408005924328917205
+    second: GameIcon_2
+  - first:
+      213: 3554770071559576054
+    second: GameIcon_3
+  - first:
+      213: 5462255477815673962
+    second: GameIcon_4
+  - first:
+      213: 9210194849068456441
+    second: GameIcon_5
+  - first:
+      213: -8456109523476439402
+    second: GameIcon_6
+  - first:
+      213: -1327253479725261946
+    second: GameIcon_7
+  - first:
+      213: -5173330025858279168
+    second: GameIcon_8
+  - first:
+      213: -9006003542043979842
+    second: GameIcon_9
+  - first:
+      213: 246082146604767995
+    second: GameIcon_10
+  - first:
+      213: 896564728138724099
+    second: GameIcon_11
+  - first:
+      213: 6849159663234317225
+    second: GameIcon_12
+  - first:
+      213: 5165589340819751921
+    second: GameIcon_13
+  - first:
+      213: -873580220156222411
+    second: GameIcon_14
+  - first:
+      213: -8211586910285577514
+    second: GameIcon_15
+  - first:
+      213: 3217367143150035679
+    second: GameIcon_16
+  - first:
+      213: 1624293306275059058
+    second: GameIcon_17
+  - first:
+      213: 4802413075340166575
+    second: GameIcon_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 551
+        width: 397
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7a08581ffd4a0c0800000000000000
+      internalID: -4565277893826926653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackSpeed
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 562
+        width: 453
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a554935e6f4830e0800000000000000
+      internalID: -2289993075250670173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 545
+        width: 362
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d84541aded3a8310800000000000000
+      internalID: 1408005924328917205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSpeed
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 111
+        width: 455
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f99f7dcb84155130800000000000000
+      internalID: 3554770071559576054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 100
+        width: 380
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6482a3ba64ddcb40800000000000000
+      internalID: 5462255477815673962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 07d60e7448ebd484cb19db7124170332
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Attack: -4565277893826926653
+      AttackSpeed: -2289993075250670173
+      GameIcon_10: 246082146604767995
+      GameIcon_11: 896564728138724099
+      GameIcon_12: 6849159663234317225
+      GameIcon_13: 5165589340819751921
+      GameIcon_14: -873580220156222411
+      GameIcon_15: -8211586910285577514
+      GameIcon_16: 3217367143150035679
+      GameIcon_17: 1624293306275059058
+      GameIcon_18: 4802413075340166575
+      GameIcon_19: 1823383657
+      GameIcon_5: 9210194849068456441
+      GameIcon_6: -8456109523476439402
+      GameIcon_7: -1327253479725261946
+      GameIcon_8: -5173330025858279168
+      GameIcon_9: -9006003542043979842
+      Health: 1408005924328917205
+      MoveSpeed: 3554770071559576054
+      Upgrade: 5462255477815673962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
