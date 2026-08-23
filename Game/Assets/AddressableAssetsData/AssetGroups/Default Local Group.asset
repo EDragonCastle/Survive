@@ -135,6 +135,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a0821d873099774aad48dddfb0ce05d
+    m_Address: Main Sound
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7166db61bf9b8e649ba4144a264daacb
     m_Address: waveSpawnData
     m_ReadOnly: 0

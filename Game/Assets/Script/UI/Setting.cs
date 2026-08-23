@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Audio;
+using Cysharp.Threading.Tasks;
 
 public class Setting : MonoBehaviour, IChannel
 {
@@ -13,10 +14,11 @@ public class Setting : MonoBehaviour, IChannel
     public Slider sfx;
 
     private float maxValue;
-    private void Awake()
+    private async void Awake()
     {
         setting.SetActive(false);
         maxValue = bgm.maxValue;
+        await AudioSetup();
     }
 
     private void OnEnable()
@@ -93,6 +95,12 @@ public class Setting : MonoBehaviour, IChannel
     {
         Time.timeScale = 1;
         setting.SetActive(false);
+    }
+
+    private async UniTask AudioSetup()
+    {
+        var resourceManager = Locator<ResourceManager>.Get();
+        audioMixer = await resourceManager.Get<AudioMixer>("Main Sound");
     }
 
 }
