@@ -10767,7 +10767,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7143319278801357795, guid: 5e5c80e7fd1626a4d971cd043c64bd35, type: 3}
       propertyPath: m_MatchWidthOrHeight
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7143319278801357795, guid: 5e5c80e7fd1626a4d971cd043c64bd35, type: 3}
       propertyPath: m_ReferenceResolution.y
@@ -10904,7 +10904,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7657224096466613570, guid: e4882ee22b586934291119f245ca2974, type: 3}
       propertyPath: m_MatchWidthOrHeight
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7658804408846178848, guid: e4882ee22b586934291119f245ca2974, type: 3}
       propertyPath: m_AnchorMax.y
@@ -10941,7 +10941,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1372247161506702236, guid: bc9915423b7da514d8b99effa0aec57b, type: 3}
       propertyPath: m_MatchWidthOrHeight
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2326354184578428864, guid: bc9915423b7da514d8b99effa0aec57b, type: 3}
       propertyPath: m_AnchorMax.x
@@ -11292,6 +11292,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8734291862700085513, guid: 8621862448f70674ea083c2010e44b45, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8898299321752458393, guid: 8621862448f70674ea083c2010e44b45, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -11351,6 +11355,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 822875327643751431, guid: a9468909afd5ef94dae27d9b3c61f090, type: 3}
       propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2091463400388809024, guid: a9468909afd5ef94dae27d9b3c61f090, type: 3}
+      propertyPath: m_MatchWidthOrHeight
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2236122669745143095, guid: a9468909afd5ef94dae27d9b3c61f090, type: 3}
@@ -11756,7 +11764,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8403862264183227471, guid: b5a91a4e27c00884bb16dc7275a686f2, type: 3}
       propertyPath: m_MatchWidthOrHeight
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
