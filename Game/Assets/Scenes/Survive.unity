@@ -11035,6 +11035,10 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 519420031}
+    - target: {fileID: 6123904859407436788, guid: bc9915423b7da514d8b99effa0aec57b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 101
+      objectReference: {fileID: 0}
     - target: {fileID: 6569672901864950199, guid: bc9915423b7da514d8b99effa0aec57b, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -11188,6 +11192,10 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 519420031}
+    - target: {fileID: 1825368354788469367, guid: 8621862448f70674ea083c2010e44b45, type: 3}
+      propertyPath: m_SortingOrder
+      value: 90
+      objectReference: {fileID: 0}
     - target: {fileID: 3463230766850315995, guid: 8621862448f70674ea083c2010e44b45, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -11461,6 +11469,10 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 519420031}
+    - target: {fileID: 8259104749950742760, guid: a9468909afd5ef94dae27d9b3c61f090, type: 3}
+      propertyPath: m_SortingOrder
+      value: 110
+      objectReference: {fileID: 0}
     - target: {fileID: 8335976355077570358, guid: a9468909afd5ef94dae27d9b3c61f090, type: 3}
       propertyPath: m_Name
       value: Game Clear
